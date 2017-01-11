@@ -1,0 +1,14 @@
+demos/spring/boot/services/courses/CoursesService.class
+demos/spring/boot/services/courses/data/CourseList.class
+demos/spring/boot/services/courses/data/CourseDifficulty.class
+demos/spring/boot/SpringBootServicesForJS.class
+demos/spring/boot/services/ping/PingService.class
+demos/spring/boot/services/graphing/GraphsService.class
+demos/spring/boot/SpringBootServicesForJSConfig.class
+demos/spring/boot/services/courses/data/Course.class
+demos/spring/boot/services/graphing/data/PieChart.class
+demos/spring/boot/services/graphing/data/Wedge.class
+demos/spring/boot/services/ajax/AjaxService.class
+demos/spring/boot/CorsFilter.class
+demos/spring/boot/services/flights/FlightsService.class
+demos/spring/boot/services/flights/data/Flight.class

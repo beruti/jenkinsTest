@@ -1,0 +1,20 @@
+{
+	"values": [
+		{
+			"label":"Javascript",
+			"value":5
+		},
+		{
+			"label":"Java",
+			"value":8
+		},
+		{
+			"label":"Scala",
+			"value":20
+		},
+		{
+			"label":"C#",
+			"value":12
+		} 
+	]
+}

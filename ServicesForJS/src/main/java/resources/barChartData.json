@@ -1,0 +1,21 @@
+{ 
+    "data": [ 
+        {
+            "key": "Your skills on this training course",
+            "values": [
+                {
+                    "label": "Before",
+                    "value": -50
+                }, 
+                {
+                    "label": "During", 
+                    "value": -10
+                }, 
+                {
+                    "label": "After", 
+                    "value": 100
+                }
+            ]
+        }
+    ]
+}
